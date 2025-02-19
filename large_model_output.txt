@@ -1,0 +1,36 @@
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 2.0018, val loss 2.0885
+step 1000: train loss 1.5998, val loss 1.7796
+step 1500: train loss 1.4404, val loss 1.6404
+step 2000: train loss 1.3414, val loss 1.5692
+step 2500: train loss 1.2789, val loss 1.5270
+step 3000: train loss 1.2274, val loss 1.5058
+step 3500: train loss 1.1837, val loss 1.4888
+step 4000: train loss 1.1453, val loss 1.4780
+step 4500: train loss 1.1098, val loss 1.4736
+
+Constrary:
+Kie, Rome, Sir John, Wedam, you in an joy,
+The boy?
+
+KING HENRY VI:
+Go, go the king; they seal alexan-tail.
+
+CLARENCE:
+So slances they not now their grace wits fruit.
+
+QUEEN MARGARET:
+O, dear; be my sovereign, as, take it.
+Ah, hearts as dead, a good my husband,
+And kill'd not the camevel: that he rosts sad it is.
+
+Lady-Is May Lour to tyrer's son!
+
+CLARENCE:
+
+KING LEWIS:
+To few her; four those sake wheels 'heaven
+His daughter's master; but licely.
+
+KING EDWARD IV:
+No doubt, what now I
